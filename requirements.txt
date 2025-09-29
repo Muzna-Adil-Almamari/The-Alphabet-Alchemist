@@ -4,3 +4,7 @@ mysql-connector-python
 mysql-connector
 python-dateutil
 simplejson
+sqlalchemy
+logging
+sqlite3
+typing-extensions
