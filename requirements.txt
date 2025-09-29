@@ -1,10 +1,5 @@
 fastapi
 uvicorn
-mysql-connector-python
-mysql-connector
+sqlalchemy
 python-dateutil
 simplejson
-sqlalchemy
-logging
-sqlite3
-typing-extensions
