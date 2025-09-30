@@ -7,5 +7,4 @@ services:
       - "8888:8888"
     volumes:
       - ./logs:/app/logs       # Mount logs directory to host
-      - ./history.db:/app/history.db  # Persist SQLite DB to host
     restart: always

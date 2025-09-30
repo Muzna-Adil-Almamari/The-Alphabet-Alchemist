@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.4] - 2025-09-30
+### Changed
+- Modified `docker-compose.yaml` to mount the log.
+
 ## [0.0.3] - 2025-09-29
 ### Added
 - Added Dockerfile for containerization.
