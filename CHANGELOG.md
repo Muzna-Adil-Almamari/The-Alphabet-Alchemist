@@ -1,4 +1,7 @@
 # Changelog
+## [0.0.5] - 2025-10-01
+### Added
+- Created `README.md` for project documentation.
 
 ## [0.0.4] - 2025-09-30
 ### Changed

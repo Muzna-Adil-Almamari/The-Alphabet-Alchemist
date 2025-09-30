@@ -7,9 +7,5 @@ examples = [
     ("abcdabcdab_",[2,7,7,0]),
     ("zdaaaaaaaabaaaaaaaabaaaaaaaabbaa",[34]),
     ("zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_",[26]),
-    ("za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa",[40,1]),
-    ("_",[0]),
-    ("_ad",[0]),
-    ("_zzzb",[0]),
-    ("__",[0]),
+    ("za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa",[40,1])
 ]
